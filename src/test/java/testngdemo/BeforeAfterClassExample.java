@@ -22,6 +22,8 @@ public class BeforeAfterClassExample {
     public void testDatePicker(){
         driver.get("https://jqueryui.com/datepicker/");
         driver.manage().window().maximize();
+
+        
     }
 
     @Test
